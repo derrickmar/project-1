@@ -40,9 +40,12 @@ or just `rails c` for short.
 Fork this repository to your GitHub by clicking the `Fork` button in the top right corner. Then, go to your
 Terminal and clone the repository using the command:
 
-    $ git clone https://github.com/<your github username>/proj-1
+    $ git clone https://github.com/<your github username>/project-1
 
 Replace `<your github username>` with your actual GitHub username.
+For example, if your username is negativetwelve then type this into your terminal
+
+  $ git clone https://github.com/negativetwelve/project-1
 
 Throughout this project, you should be adding parts of the project to your git repo as you complete them.
 We'll guide you how to do this throught the instructions, but the general workflow will be along the lines of:
